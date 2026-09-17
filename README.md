@@ -1,4 +1,4 @@
-# House-of-Liquor-
+# House-of-Liquor
 A deliberately vulnerable Flask web application built on Jinja2 to demonstrate SQL injection and Server-Side Template Injection (SSTI) leading to Remote Code Execution (RCE) via nmap, Gobuster, and tplmap to identify and exploit injection flaws.
 
 > ## Disclaimer: This application is intentionally insecure. It exists solely for educational purposes to demonstrate real-world web application vulnerabilities and their mitigations in a controlled, local environment. Do not deploy this application on a public-facing server.
